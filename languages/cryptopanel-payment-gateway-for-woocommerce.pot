@@ -1,0 +1,126 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CryptoPanel Payment Gateway 1.0\n"
+"Report-Msgid-Bugs-To: https://www.cryptopanel.de\n"
+"POT-Creation-Date: 2019-04-09 17:18+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cryptopanel-payment-gateway.php:66 cryptopanel-payment-gateway.php:116
+msgid "CryptoPanel Payment Gateway"
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:67
+msgid "Enables payments with the CryptoGate Gateway."
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:107
+msgid "Enable/Disable"
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:109
+msgid "Activate CryptoPanel Payment Gateway"
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:113
+msgid "Title"
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:115
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:120
+msgid "Order Status"
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:123
+msgid "Status after checkout."
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:129
+msgid "Description"
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:131
+msgid "The description which the user sees during checkout."
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:132
+msgid "Pay Securely with Bitcoin, Bitcoin Cash or Litecoin."
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:136
+msgid "Note"
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:138
+msgid "A Note, which will be displayed during customers checkout and inside the order email."
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:143
+msgid "Error"
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:145
+msgid "An error has occured."
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:146
+msgid "An error has occured. Please try again. If the problem persists please contact us."
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:150
+msgid "CryptoGate URL"
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:152
+msgid "Your CryptoGate URL"
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:157
+msgid "Merchant Api Token"
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:159
+msgid "Your Merchant Api Token"
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:164
+msgid "Transmit customer order data"
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:166
+msgid "Display customer order data at <a target=\"_blank\" href=\"https://member.cryptopanel.de/member/transaction\">CryptoPanel -> CryptoGate > Transactions</a>"
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:167
+msgid "Under certain cirumstances you need an Order data processing contract (=ADV) from your service provider. In case you are using CryptoPanel, the ADV contract can be requested <a target=\"_blank\" href =\"https://www.cryptopanel.de/\">here</a>"
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:175
+msgid "Currencies"
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:177
+msgid "Select enabled currencies"
+msgstr ""
+
+#: cryptopanel-payment-gateway.php:198
+msgid "Checkout with crypto payment."
+msgstr ""
+
+#: lib/CryptoGatePaymentService.php:48
+#, php-format
+msgid "Your order at %s"
+msgstr ""
